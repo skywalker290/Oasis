@@ -1,2 +1,3 @@
-# MOD-COM
-This is a project for OSD-Hack organized by OSDC of JIIT.
+# OASIS
+This is a Voice Controlled Ecommerce Website.
+Here user just need to lay back and control each and every component using voice commands.
